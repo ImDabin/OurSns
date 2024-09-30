@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68765131389",
+    "project_id": "oursns-f4",
+    "storage_bucket": "oursns-f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68765131389:android:4e83c385313d3ac7880714",
+        "android_client_info": {
+          "package_name": "com.dabin.oursns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZDcmda0U8T_MT85OyPJgjbScBGAIgnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
